@@ -16,6 +16,7 @@
 - [Getting Started](#getting-started)
 - [Repository Overview](#repository-overview)
   - [Eclipse BaSyx Java](#eclipse-basyx-java)
+  - [Eclipse BaSyx Go](#eclipse-basyx-go)
   - [Eclipse BaSyx Python](#eclipse-basyx-python)
   - [Eclipse BaSyx TypeScript](#eclipse-basyx-typescript)
   - [Eclipse BaSyx .Net](#eclipse-basyx-net)
@@ -44,6 +45,9 @@ Eclipse BaSyx hosts a multitude SDKs, components and applications. These include
 BaSyx Java V2 is fully compliant with Specification of the Asset Administration Shell Version 3. Its SDK, off-the-shelf components, documentation and examples are contained in [basyx-java-server-sdk](https://github.com/eclipse-basyx/basyx-java-server-sdk).
 
 For its documentation, see [BaSyx Wiki](https://wiki.basyx.org/en/latest/content/user_documentation/basyx_components/v2/index.html).
+
+### Eclipse BaSyx Go
+BaSyx Go off-the-shelf components, documentation and examples are contained in [basyx-go-components](https://github.com/eclipse-basyx/basyx-go-components).
 
 ### Eclipse BaSyx Python
 The [BaSyx-Python-SDK](https://github.com/eclipse-basyx/basyx-python-sdk) is an implementation of the specification of the  Asset Administration Shell in Python 3. 
